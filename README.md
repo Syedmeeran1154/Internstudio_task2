@@ -1,1 +1,2 @@
-# Internstudio_task2
+# LandingPage
+Task 2 of Internstudio internship
